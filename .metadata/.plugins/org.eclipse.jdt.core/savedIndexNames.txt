@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+C:\Users\Daniel\Documents\GitHub\SWENG_500\.metadata\.plugins\org.eclipse.jdt.core
+3441175534.index
+2534467611.index
+3833025877.index
+1284074322.index
